@@ -1,0 +1,5 @@
+Consigna:
+
+Para generar la paleta de colores, creá una función que recorra la lista de colores nombreColores, y por cada color cree un elemento div y le asigne un background-color: color y la clase color-paleta. El elemento que cree tu función deberá ser agregado como hijo del elemento paleta.
+
+Nota: Es importante que agregues la clase color-paleta para que el archivo de estilo (.css) de los Recursos Descargables se aplique correctamente.
