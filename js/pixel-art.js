@@ -31,7 +31,10 @@ $(document).ready(function () {
   // Es decir, el que se elige con la rueda de color.
   var colorPersonalizado = document.getElementById('color-personalizado');
   
-
+  
+  
+  
+/*
   function recorreColores() {
     paleta.className = "color-paleta";
     }
@@ -48,5 +51,5 @@ $(document).ready(function () {
 
     })
   );
-
+*/
 });
